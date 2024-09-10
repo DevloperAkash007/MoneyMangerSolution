@@ -1,0 +1,2 @@
+# MoneyMangerSolution
+MoneyMangerSolutionhasTakenByNxtwave
